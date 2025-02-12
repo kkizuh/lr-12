@@ -1,0 +1,11 @@
+C:\Users\Kris\Desktop\LR-12\bin\Debug\App.config
+C:\Users\Kris\Desktop\LR-12\bin\Debug\LR-12.exe.config
+C:\Users\Kris\Desktop\LR-12\bin\Debug\LR-12.exe
+C:\Users\Kris\Desktop\LR-12\bin\Debug\LR-12.pdb
+C:\Users\Kris\Desktop\LR-12\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kris\Desktop\LR-12\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Kris\Desktop\LR-12\obj\Debug\LR-12.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\LR-12\obj\Debug\LR-12.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\LR-12\obj\Debug\LR-12.csproj.Up2Date
+C:\Users\Kris\Desktop\LR-12\obj\Debug\LR-12.exe
+C:\Users\Kris\Desktop\LR-12\obj\Debug\LR-12.pdb
